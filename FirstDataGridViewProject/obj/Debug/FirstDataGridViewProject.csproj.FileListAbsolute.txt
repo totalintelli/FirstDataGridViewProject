@@ -1,0 +1,9 @@
+E:\Projects\FirstDataGridViewProject\FirstDataGridViewProject\bin\Debug\FirstDataGridViewProject.exe.config
+E:\Projects\FirstDataGridViewProject\FirstDataGridViewProject\bin\Debug\FirstDataGridViewProject.exe
+E:\Projects\FirstDataGridViewProject\FirstDataGridViewProject\bin\Debug\FirstDataGridViewProject.pdb
+E:\Projects\FirstDataGridViewProject\FirstDataGridViewProject\obj\Debug\FirstDataGridViewProject.csprojResolveAssemblyReference.cache
+E:\Projects\FirstDataGridViewProject\FirstDataGridViewProject\obj\Debug\FirstDataGridViewProject.DataGridViewProjectForm.resources
+E:\Projects\FirstDataGridViewProject\FirstDataGridViewProject\obj\Debug\FirstDataGridViewProject.Properties.Resources.resources
+E:\Projects\FirstDataGridViewProject\FirstDataGridViewProject\obj\Debug\FirstDataGridViewProject.csproj.GenerateResource.Cache
+E:\Projects\FirstDataGridViewProject\FirstDataGridViewProject\obj\Debug\FirstDataGridViewProject.exe
+E:\Projects\FirstDataGridViewProject\FirstDataGridViewProject\obj\Debug\FirstDataGridViewProject.pdb
